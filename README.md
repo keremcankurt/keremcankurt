@@ -1,4 +1,4 @@
-[![MasterHead(https://avatars.mds.yandex.net/i?id=0540544b3620d6f725c7d7e0d472310e3c9f5a6c-9730803-images-thumbs&n=13)]
+[![MasterHead](https://avatars.mds.yandex.net/i?id=0540544b3620d6f725c7d7e0d472310e3c9f5a6c-9730803-images-thumbs&n=13)]
 <h1 align="center">Hi 👋, I'm Kerem Can KURT</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
