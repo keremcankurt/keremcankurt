@@ -1,4 +1,4 @@
-<img src="https://avatars.mds.yandex.net/i?id=0540544b3620d6f725c7d7e0d472310e3c9f5a6c-9730803-images-thumbs&n=13" alt="gorsel1" width="100%" >
+<img src="https://i.pinimg.com/originals/c3/46/8c/c3468cd0b36656691774df0675b1d761.png" alt="gorsel1" width="100%" >
 <h1 align="center">Hi 👋, I'm Kerem Can KURT</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
