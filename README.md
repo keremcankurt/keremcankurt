@@ -1,6 +1,6 @@
 <img src="https://i.morioh.com/200520/815b0f81.jpg" alt="gorsel1" width="100%" >
 <h1 align="center">Hi 👋, I'm Kerem Can KURT</h1>
-<h3 align="center">A passionate full stack web developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **React**
 
