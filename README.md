@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 📫 How to reach me **keremkurt289@gmail.com**
+- 📫 How to reach me **cankeremkurt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
